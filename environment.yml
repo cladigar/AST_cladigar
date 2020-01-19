@@ -1,0 +1,4 @@
+name: python_environment
+
+dependencies:
+- scipy
