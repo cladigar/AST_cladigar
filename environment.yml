@@ -2,3 +2,10 @@ name: python_environment
 
 dependencies:
 - seaborn
+- sklearn
+- pandas
+- numpy
+- matplotlib
+- pymc3
+- scipy
+- math
